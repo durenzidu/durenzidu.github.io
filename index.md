@@ -3,7 +3,7 @@
 欢迎来到我的个人博客！
 
 ## 关于我
-我是 durenzidu，正在学习 GitHub 和编程。
+我是 durenzidu，正在学习 GitHub 和编程。 这是我学习的成果 https://powpow.online/
 
 ## 最新文章
 
